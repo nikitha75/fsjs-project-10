@@ -1,0 +1,259 @@
+
+
+* {
+    font-family: 'Poppins', sans-serif;
+    /* color: #ffffff; */
+}
+
+
+
+
+body {
+    background-image: url("assets/img-interiordesign3.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 500px;
+    background-position: center;
+    /* color: #ffffff; */
+}
+
+
+nav {
+    display: flex;
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: 10px;
+} 
+
+
+.lgo {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+
+
+.list {
+    list-style: none;
+    display: flex;
+    /* border-bottom: 2px solid #ffffff; */
+    margin-left: 70px;
+    
+} 
+
+.list-item {
+    margin:30px;
+    cursor: pointer;
+}
+
+.call {
+    margin-left: 200px;
+}
+
+
+
+.heading-text {
+    color: #ffffff;
+    font-size: 40px;
+}
+
+
+.btn {
+    color: #ffffff;
+    font-weight: bold;
+    border: 2px solid #ffffff;
+    border-radius: 20px;
+    padding: 10px 35px;
+    display: inline;
+    cursor: pointer;
+}
+
+
+
+
+
+.faphn {
+    float: right;
+    margin-top: -70px;
+    margin-right: -80px;
+}
+
+
+
+.callus {
+    float: right;
+    margin-top: -102px;
+    margin-right: -250px;
+    /* border-bottom: 2px solid #ffffff; */
+
+}
+
+.t1 {
+    margin-top: -20px;
+}
+
+
+hr {
+    height:2px;
+    width:840px;
+    border-width:0;
+    color:#ffffff;
+    background-color: #ffffff;
+    margin-left: 350px;
+    margin-top: -20px;
+}
+
+
+
+
+
+
+.puzzleclass {
+    background-color: rgb(255, 255, 255,0.2);
+    width: 240px;
+    height: 80px;
+    margin-left: 890px;
+    margin-top: -170px;
+    padding: 30px;
+    /* display: block; */
+    /* margin-right: -100px; */
+}
+
+.puzzle {
+    width: 60px;
+    height: 30px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    margin-top: -10px;
+}
+
+.puzzle > i {
+    margin-left: 20px;
+    margin-top: 14px;
+    /* background-color: green; */
+}
+
+
+
+.desc1 {
+    position: absolute;
+    color: #ffffff;
+    margin-right: 100px;
+
+}
+
+
+.line1 {  
+    float: right;
+    width: 3px;
+    height: 55px;
+    background-color: #ffffff;
+    margin-right: -620px;
+    /* border-right: 1px solid #ef2626; */
+}
+
+
+.circle1 {
+    float: right;
+    height: 20px;
+    width: 20px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    margin-right: -630px;
+    margin-top: 55px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bulbclass {
+    float: right;
+    background-color: rgb(255, 255, 255,0.2);
+    width: 240px;
+    height: 80px;
+    margin-right: -600px;
+    margin-top: 130px; 
+    padding: 30px;
+    /* display: block; */
+    /* margin-right: -100px; */
+}
+
+.bulb {
+    width: 60px;
+    height: 30px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    margin-top: -10px;
+}
+
+.bulb > i {
+    float: right;
+    margin-right: 25px; 
+    margin-top: 15px; 
+}
+
+
+
+.line2 {
+    float: right;
+    width: 55px;
+    height: 3px;
+    background-color: #ffffff;
+    margin-right: -655px;
+    margin-top: 170px;
+    /* border-right: 1px solid #ef2626; */
+}
+
+
+
+.circle2 {
+    float: right;
+    height: 20px;
+    width: 20px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    margin-right: -670px;
+    margin-top: 160px;
+   
+}
+
+
+.desc2 {
+    position: absolute;
+    color: #ffffff;
+    margin-right: 200px;
+    /* padding: 30px; */
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+.banner-container {
+    margin-left: 100px;
+}
+
+
+
+
+
+
+
+
+
