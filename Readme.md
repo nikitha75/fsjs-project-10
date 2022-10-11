@@ -1,8 +1,12 @@
 
 Hey all!
 
-This is Nikitha
+This is Nikitha :)
 
-This landing page was built from scratch using HTML & CSS :)
+This landing page was built from scratch 
 
+Tech stack used 
+- HTML 
+- CSS 
 
+Link to the webpage - [Click here](https://fsjs-project-10.netlify.app/)
